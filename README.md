@@ -1,2 +1,4 @@
-# ola-mundo
+# olá, Mundo
  repositório versionado
+
+repositório criado para projetos pessoais 
